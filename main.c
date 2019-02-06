@@ -96,14 +96,5 @@ int main( void )
     insert_last(element_ptr);
     print_list(first);
 
-    printf("Moving to new section \n");
-
-    for( int ii = 0; ii<4; ii++ )
-    {
-        in_count();   
-    }
-
-    printf("\nEnding new section \n");
-
     return 0;
 }
