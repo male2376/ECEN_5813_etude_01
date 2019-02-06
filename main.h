@@ -17,7 +17,7 @@
 #define D1024 (1<<10)
 #define D0250 (501>>1)
 
-//#define TRUE (1)
+#define TRUE (1)
 
 #define DEBUG_MODE (1)
 /* NULL already defined in multiple header files */
