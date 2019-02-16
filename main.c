@@ -96,5 +96,7 @@ int main( void )
     insert_last(element_ptr);
     print_list(first);
 
+    free(element_ptr);
+
     return 0;
 }
